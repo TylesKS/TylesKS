@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Eu sou o Victor Daniel<br><br>🎓 Estudante do 2º ano | 💻 Desenvolvedor em formação<br><br>Sou um estudante apaixonado por tecnologia e desenvolvimento web.<br>Atualmente, estou aprendendo React, JavaScript, HTML e CSS de forma autodidata.<br>Tenho proatividade e muita vontade de evoluir constantemente, buscando sempre novos desafios e oportunidades para aprender.<br><br>🚀 "O melhor jeito de aprender é praticando."
+👋 Olá! Eu sou o Victor Daniel<br><br>🎓 Estudante do 2º ano | 💻 Desenvolvedor em formação<br><br>Sou um estudante apaixonado por tecnologia e desenvolvimento web.<br>Atualmente, estou aprendendo React, JavaScript, HTML e CSS de forma autodidata.<br>Tenho proatividade e muita vontade de evoluir constantemente, buscando sempre novos desafios e oportunidades para aprender.
 
 
 ## 🌐 Socials:
